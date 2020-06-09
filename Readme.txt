@@ -68,7 +68,7 @@ Instruction and Demo
 For instructions to run the software, refer to Supplementary Information, section S7.3
 
 Demo test table included in the folder:
-"Test automation for  mitsunubo reaction @ 60 C three channel Sep12.txt" 
+"Test automation for  prexasertib synthesis  using SNAr as 5th step.txt" 
 
 After successful completion of the program, the message "No more entries left. The operation will now stop." will be displayed
 
