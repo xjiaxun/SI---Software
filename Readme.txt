@@ -1,9 +1,9 @@
-SPS Flow System Automation Folder includes:
+Includes:
 
-Application folder: subfolder containing Application exe and subfolder containing Installer exe
-Source Code folder
+SPS Flow System folder: subfolder containing Application exe and subfolder containing Installer exe
+LabVIEW Source Code folder
 Readme.txt
-Test automation for mitsunubo reaction @ 60 C three channel Sep12.txt
+Test automation for  prexasertib synthesis  using SNAr as 5th step.txt
 
 
 
